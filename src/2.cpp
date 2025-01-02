@@ -9,7 +9,6 @@ class contaBancaria{
         string nome;
         float saldo;
     //MÉTODOS PUBLICOS
-
     public:
         contaBancaria(string Nome, int NumeroConta, float Saldo){
             numeroConta = NumeroConta;

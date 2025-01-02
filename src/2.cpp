@@ -1,3 +1,4 @@
+//2. Encapsulamento
 #include <iostream>
 using namespace std;
 
